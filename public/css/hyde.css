@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #40C4FF;
+  background: url("../img/the-sidebar-background.png") 50% 50% no-repeat;
 }
 @media (min-width: 48rem) {
   .sidebar {
